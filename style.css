@@ -1,0 +1,64 @@
+cognito {
+    width: 3px;
+}
+.cv {
+    list-style: none;
+}
+.search {
+    width: 20px;
+}
+ul {
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+}
+.men {
+    border: 1px solid;
+    background-color: transparent;
+    padding-block: px;
+    padding-inline: 5px;
+}
+.man {
+    color: white;
+    background-color: black;
+    border: none;
+    padding-block: px;
+    padding-inline: 5px;
+}
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-inline: 20px;
+}
+.bus {
+    width: 70px;
+}
+.bin {
+    display: flex;
+    gap: 10px;
+}
+.first {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-inline: 100px;
+    margin-block: 100px;
+    gap: 10px;
+}
+
+.ten {
+   
+    padding: 30px;
+    justify-content: center;
+}
+.nin{
+    width: 200px;
+    height: 30px;
+}
+.kin{
+    width: 250px;
+    height: 30px;
+    background-color: purple;
+}
+.num{
+    display: flex;
+}
